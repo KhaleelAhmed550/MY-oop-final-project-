@@ -1,0 +1,14 @@
+OOP LMS Project - Fall 2025
+Author: [Your Name]
+Course: CSXXX – Object Oriented Programming
+
+Project Description:
+This project implements a simple Learning Management System (LMS) using C++ and OOP concepts.
+It includes the following features:
+1. Admin, Teacher, and Student login.
+2. Admin can add Students, Teachers, Admins, Courses, and enroll students.
+3. Teachers can add assignments, grade submissions, and view all submissions.
+4. Students can submit assignments and view their submissions.
+5. Backup functionality saves a record to this file (backup.txt).
+
+All data in the LMS is stored in memory and can be backed up to this file.
